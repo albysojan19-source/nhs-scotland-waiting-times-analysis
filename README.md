@@ -4,6 +4,10 @@ An end-to-end data analytics project analysing NHS Scotland Stage of Treatment w
 
 The project uses **PostgreSQL, SQL, Tableau and Excel** to explore waiting-list trends, long waits, health board performance, specialty-level patterns and completed activity.
 
+## Interactive Dashboard
+
+[View the live Tableau dashboard](https://public.tableau.com/views/NHSScotlandWaitingTimesPerformanceDashboard/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Project Objectives
 
 The analysis aims to answer:
